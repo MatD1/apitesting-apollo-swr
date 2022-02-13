@@ -32,3 +32,8 @@ yarn-error.log*
 
 # vercel
 .vercel
+.env
+.vs/apitesting/project-colors.json
+.vs/apitesting/v17/.suo
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
